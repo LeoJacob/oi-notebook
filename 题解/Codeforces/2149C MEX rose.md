@@ -1,3 +1,9 @@
+---
+tags:
+  - Codeforces
+  - 贪心
+---
+
 题目链接：[链接](https://codeforces.com/problemset/problem/2149/C)
 
 ## 题意
