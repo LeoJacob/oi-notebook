@@ -4,6 +4,7 @@ tags:
   - 贪心
   - 图论
   - 最小生成树
+  - 构造
 ---
 
 题目链接：[链接](https://www.luogu.com.cn/problem/P14030)
