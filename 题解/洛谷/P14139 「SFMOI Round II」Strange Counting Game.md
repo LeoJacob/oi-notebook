@@ -3,6 +3,7 @@ tags:
   - 洛谷
   - 数论
 ---
+
 题目链接：[链接](https://www.luogu.com.cn/problem/P14139)
 
 ## 题意
